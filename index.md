@@ -32,5 +32,4 @@ NIP: 896 142 81 34
 
 If you have any questions or want to learn more, contact us:
 
-Email: [contact@krzysztofhoffmannit.com](mailto:contact@krzysztofhoffmannit.com)  
-Phone: +48 123 456 789
+Email: [krzysiekpl@gmail.com](mailto:krzysiekpl@gmail.com)
