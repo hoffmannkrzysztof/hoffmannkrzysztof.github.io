@@ -1,1 +1,0 @@
-# hoffmannkrzysztof.github.io
